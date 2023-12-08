@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>interface</title>
+</head>
+<body>
+    <img src="giftlogo.jpg" alt="logo"height="130px"width="130px"> <br>
+    <center> <span style="font-size:x-large;color: aqua;font-family:Arial;" >Time To Show</span> <span style="font-size: xx-large;color: deeppink;font-family: Franklin Gothic Medium;">Love</span></center> <br> <br>
+    <img src="pexels-jill-wellington-3309877.jpg" alt="left side"height="480px"width="470px">
+    <img src="pexels-cottonbro-studio-4684265.jpg" alt="right side"height="480px"width="550px">
+    <img src="pexels-anna-tarazevich-6123673.jpg" alt="center"height="480px"width="470px"> <br>
+     <h1> <span style="font-size: xx-large;color: darkgreen;font-family: Franklin Gothic Medium;" > Various Gifts for your events"</h1>
+        <h2>Personalized Gifts</h2> 
+         <p>Customized items like engraved jewelry, monogrammed accessories, or personalized artwork.</p>
+           <h2>Tech Gadgets</h2>
+           <p> Smartwatches, wireless headphones, portable speakers, or the latest smartphone accessories.</p>
+           <h2> Subscription Boxes</h2>
+           <p> Monthly subscriptions for beauty products, gourmet foods, books, or hobby-related items.</p>
+            <h2>Experiences</h2>
+            <p> to concerts, shows, sports events, or vouchers for activities like cooking classes, spa treatments, or adventure sports.</p>
+           <h2> Handmade/ DIY Gifts</h2>
+           <p> Handcrafted items like knitted scarves, homemade candles, or artwork.</p>
+           <h2> Books</h2>
+           <p> Bestsellers, collector's editions, or special editions of favorite books.</p>
+           <h2> Home Decor</h2>
+           <p> Unique home accessories, stylish vases, or decorative items.</p>
+           <h2> Games and Puzzles</h2>
+          <p> Board games, jigsaw puzzles, or interactive games.</p>
+            <h2> and Beverage</h2>
+            <p> Gourmet baskets, specialty chocolates, fine wines, or artisanal teas and coffees.</p>
+           <h2> Plants</h2>
+           <p> Indoor plants, succulents, or gardening kits.
+             </p>
+        
+        
+    <video src="The Spirit of Christmas Intro (1).mp4"loop autoplay muted width="1500"></video> <br>
+    <h2>FOR MORE <DETAILs></DETAILs></h2>
+    <a href="https://giftcart.com/collections/send-gifts-to-delhi">CLICK HERE</a> <br>
+    <a href="https://giftcart.com/collections/same-day-delivery"> delivery</a> <br>
+    <strong style="font-size: xx-large;font-weight: 300;">for Quueries</strong> <br>
+    <label for="">full name </label><br>
+    <input type="text" placeholder="enter your name" id=""> <br>
+    <E-mail> E-mail</E-mail> <br>
+    <input type="text" placeholder="enter your e mail" id=""> <br>
+    <label for="">phone nuber</label><br>
+    <input type="text" placeholder="enter your phone number" id=""> <br>
+    <label for="">message</label><br>
+    <input type="text" placeholder="" id=""> <br>
+    <button>Submit
+
+    </button>
+
+
+
+
+    
+</body>
+</html>
